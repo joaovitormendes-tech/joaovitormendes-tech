@@ -33,6 +33,13 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 </p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitor823/joaovitor823/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitor823/joaovitor823/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaovitor823/joaovitor823/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ---
 

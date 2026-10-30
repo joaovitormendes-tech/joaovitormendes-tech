@@ -1,11 +1,12 @@
 # 👨‍💻 João Vitor Mendes Almeida
 
-### Olá! 👋
+## 📫 Let's Connect
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e inovação.
+💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/joaovmendes-tech/)
 
-Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades como desenvolvedor.
+💻 **GitHub:** [Meu GitHub](https://github.com/joaovitormendes-tech)
 
+📧 **Email:** joaovitormendesalmeida3@gmail.com
 ---
 
 ## 💻 Linguagens

@@ -2,7 +2,7 @@
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/joaovmendes-tech/)
+💼 **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/joaovmendes-tech)
 
 💻 **GitHub:** [Meu GitHub](https://github.com/joaovitormendes-tech)
 
